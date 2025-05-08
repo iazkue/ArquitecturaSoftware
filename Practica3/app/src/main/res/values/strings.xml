@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="button_return">Return</string>
+    <string name="edit_message">edit message</string>
+</resources>
